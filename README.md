@@ -2,7 +2,7 @@
 
 ## About
 
-This is the code used to fit the free energy function from transfer measurements as presented in [the paper]. An example data set is provided. 
+This is the code used to fit the free energy function from transfer measurements as presented in the paper [Bistable Organic Electrochemical Transistors: Enthalpy vs. Entropy][xiv.org/abs/2404.14362]. An example data set is provided. 
 
 ## Citation
 
