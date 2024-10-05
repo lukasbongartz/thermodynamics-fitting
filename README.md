@@ -1,5 +1,3 @@
-# Free Energy Fitting
-
 ## About
 
 This is the code used to fit the free energy function from transfer measurements as presented in the paper [Bistable Organic Electrochemical Transistors: Enthalpy vs. Entropy](https://www.nature.com/articles/s41467-024-51001-9). An example data set is provided. 
@@ -19,7 +17,4 @@ author = {Bongartz, Lukas M. and Kantelberg, Richard and Meier, Tommy and Hoffma
 	volume = {15},
 	year = {2024}}
 ```
-
-## License
-
 
